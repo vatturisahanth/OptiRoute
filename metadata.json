@@ -1,0 +1,5 @@
+{
+  "name": "AP Smart Route Optimizer",
+  "description": "Official GIS-based route optimization portal for the Government of Andhra Pradesh Transport Department, featuring traffic-aware Dijkstra algorithms and AI predictive analytics.",
+  "requestFramePermissions": []
+}
